@@ -1,2 +1,0 @@
--archivo inicial
--creación carpeta del proyecto 
